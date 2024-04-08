@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(205, 231, 239);
+    padding: 17px;
+}
+.card{
+    padding: 30px;
+    text-align: center;
+    background-color: aliceblue;
+    width: 300px;
+    border-radius: 6%;
+}
+.card img{
+    border-radius: 6%;
+}
